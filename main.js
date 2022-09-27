@@ -1,9 +1,11 @@
 let food = [
  'ramen',
- 'steak'
+ 'steak',
+ 'pizza'
 ]
 
 let animals = [
  'cat',
  'dog',
+ 'hamster',
 ]
